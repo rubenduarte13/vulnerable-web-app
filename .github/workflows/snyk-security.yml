@@ -1,6 +1,6 @@
 # SAST Workflow for the DevSecOps & Cloud Security course
 
-name: Running SAST tools
+name: snyk-security
 
 on:
   workflow_call:
